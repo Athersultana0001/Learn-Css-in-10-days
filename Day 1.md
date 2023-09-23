@@ -331,19 +331,19 @@ These are just a few of the basic CSS properties you can use to style your web p
 # Applications  🌐
 Let's bring Day 1's CSS fundamentals to life with relatable scenarios and emojis! 🚀🎨
 
-## What is CSS? 🤔
+### What is CSS? 🤔
 
 Think of CSS as the 🎨 artist's palette that turns a plain web page into a colorful masterpiece! CSS is like the magic wand 🪄 for web developers, transforming dull content into visually appealing websites.
 
-## CSS Syntax and Selectors 🎨
+### CSS Syntax and Selectors 🎨
 
 CSS selectors are like 👓 detectives that help us style specific HTML elements. Imagine targeting all your headings (📚) to make them bold and colorful or styling all your buttons (🛒) to stand out with vibrant colors.
 
-## Adding CSS to HTML 🌟
+### Adding CSS to HTML 🌟
 
 Adding CSS to HTML is like dressing up your web page. Whether it's giving a single element a unique style (👗), making your whole website look cohesive (🤝), or organizing your styles in a separate wardrobe (👚), there's a method for every scenario.
 
-## Basic Styling and Properties 📊
+### Basic Styling and Properties 📊
 
 Think of CSS properties as your 🧰 tools for painting the web canvas. Adjust text size (📏) like choosing the right font for a book, pick text colors (🌈) as if selecting a pen, set the background color (🌅) to create the right mood, and add spacing (📊) around elements just like arranging furniture in a room.
 
@@ -358,7 +358,7 @@ We also explored different ways to add CSS to HTML, from inline styling (🧾) t
 
 As we wrap up Day 1, remember that CSS is all about unleashing your creativity and making the web a more beautiful place. 🚀✨ Stay tuned for more CSS adventures!
 
-#CSS Fundamentals Challenge 🌟
+# CSS Fundamentals Challenge 🌟
 
 1.  What does CSS stand for? 🤔
     

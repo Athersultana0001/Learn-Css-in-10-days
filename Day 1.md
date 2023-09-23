@@ -328,7 +328,7 @@ button {
 ```
 These are just a few of the basic CSS properties you can use to style your web pages. Experiment with different values and combinations to create visually appealing designs. As you progress in your CSS journey, you'll discover more properties and techniques to enhance your styling skills. Remember, practice makes perfect! 🚀🌟
 
-# Day 1 Applications in Action 🌐
+# Applications  🌐
 Let's bring Day 1's CSS fundamentals to life with relatable scenarios and emojis! 🚀🎨
 
 ## What is CSS? 🤔
@@ -349,7 +349,7 @@ Think of CSS properties as your 🧰 tools for painting the web canvas. Adjust t
 
 CSS allows you to add that extra 🎉 flair to your web content and make it shine! So, keep practicing and exploring to become a master of web styling.
 
-# Day 1 Summary 🌐
+# Summary 🌐
 Day 1 was all about getting acquainted with the colorful world of CSS! 🎨 We discovered that CSS is like a magic wand 🪄 that transforms plain web content into visually captivating websites.
 
 CSS's role in web development is akin to an artist's palette 🎨, adding creativity and charm to web pages. It separates content (HTML) from presentation, ensuring a consistent look and feel across the website. CSS is your toolset 🧰 for making text bigger (📏), adding vibrant colors (🌈), setting moods with backgrounds (🌅), and arranging elements with spacing (📊).
@@ -358,7 +358,7 @@ We also explored different ways to add CSS to HTML, from inline styling (🧾) t
 
 As we wrap up Day 1, remember that CSS is all about unleashing your creativity and making the web a more beautiful place. 🚀✨ Stay tuned for more CSS adventures!
 
-## Quiz Title: "CSS Fundamentals Challenge"** 🌟
+#CSS Fundamentals Challenge 🌟
 
 1.  What does CSS stand for? 🤔
     
@@ -536,7 +536,6 @@ As we wrap up Day 1, remember that CSS is all about unleashing your creativity a
       -   D) To manage database operations
       -   **Correct Answer: C** 🎯
 
-# Closing Note for Day 1 🌟
 
 Congratulations on completing Day 1 of our "Learn CSS in 10 Days" journey! 🎉 Today, we took our first steps into the fascinating world of CSS, and you've already gained a solid foundation in web styling.
 

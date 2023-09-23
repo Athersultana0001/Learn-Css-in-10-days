@@ -361,7 +361,7 @@ To solidify your understanding of CSS concepts such as the Box Model, padding, m
     
 
 Feel free to experiment and get creative with these exercises. CSS is all about practice and experimentation, so don't hesitate to tweak values and styles to achieve the desired results. Enjoy honing your CSS skills! 🎨👩‍💻
-# Day 2 Applications in Action 🌐
+# Applications  🌐
 Certainly! Here are some detailed applications of the concepts covered on Day 2 of the CSS Box Model workshop, with emojis to illustrate their use:
 
 1.  **Creating a Stylish Card** 🃏
@@ -398,7 +398,7 @@ Certainly! Here are some detailed applications of the concepts covered on Day 2 
     
 
 By applying these CSS concepts creatively, you can enhance the visual appeal and user experience of your web projects. The possibilities are endless, and CSS offers you the tools to bring your design ideas to life! 🌐✨🎉
-# 📦 Day 2 Summary 📦
+# 📦 Summary 📦
 
 Day 2 of our CSS Box Model workshop was all about mastering the fundamentals of web design with CSS! 🎨 We explored the intricate world of the Box Model 🧩, learning how to control element size and spacing using padding and margins 📏🧼. We delved into the art of border customization 🌐🔲, creating visually appealing layouts. Additionally, we honed our skills in content sizing with the width and height properties 📐🖼️, paving the way for responsive design.
 
@@ -583,7 +583,7 @@ The possibilities are endless in the world of CSS, and we're now equipped with t
       -   c) Border
       -   d) Width
       -   **Correct Answer: b) Margin** 🌅🏖️
-# Closing Note for Day 2 📝
+
 
 Congratulations on completing Day 2 of our CSS Box Model workshop! 🎉📦
 

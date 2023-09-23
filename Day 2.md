@@ -98,7 +98,7 @@ Understanding the Box Model is crucial when designing layouts. It helps ensure p
 
 Now that you have a thorough understanding of the CSS Box Model, let's dive into practical exercises to reinforce your knowledge! 🚀👩‍💻
 # Manipulating Element Size and Spacing with Padding and Margins 📏🧼
-![Margin vs Padding in HTML and CSS: Differences and How to Use](https://cdn.hackr.io/uploads/posts/attachments/1642518522C5lQcMEBaf.png)
+![CSS margin vs. padding - LogRocket Blog](https://blog.logrocket.com/wp-content/uploads/2021/08/Sides-margin-edge.png)
 In CSS, you can control the size and spacing of elements using the `padding` and `margin` properties. These properties are essential for creating well-structured and visually appealing layouts.
 
 ## Padding: Creating Space Inside Elements 🧼

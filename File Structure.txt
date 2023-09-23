@@ -1,0 +1,340 @@
+LEARN CSS  IN 10 DAYS
+
+Lesson1	-     Introduction to CSS
+	- ElementA -concept1- What is CSS
+		- elementB - Explanation of concept     - What is CSS
+		- elementC - Example of concept		- What is CSS
+		- elementD - Where it is used		- Applications of CSS
+		- elementE - sample code		- related codes to What is CSS
+		- elementF - image			- relevant images of CSS
+		- elementG - summary			- summary of What is CSS
+		- elementH - interview questions	- knowledge check about the CSS
+	- ElementA - concept2 - CSS syntax and selectors
+		- elementB - Explanation of concept     - CSS syntax and selectors
+		- elementC - Example of concept		- CSS syntax and selectors
+		- elementD - Where it is used		- Applications of CSS syntax and selectors
+		- elementE - sample code		- codes of  CSS syntax and selectors
+		- elementF - image			- relevant images of CSS syntax and selectors
+		- elementG - summary			- summary of CSS syntax and selectors
+		- elementH - interview questions	- knowledge check about the CSS syntax and selectors
+	- ElementA - concept3 	-  Adding CSS to HTML
+		- elementB - Explanation of concept     - Adding CSS to HTML
+		- elementC - Example of concept		- Adding CSS to HTML
+		- elementD - Where it is used		- Applications of  Adding CSS to HTML
+		- elementE - sample code		- code for Creating your  Adding CSS to HTML
+		- elementF - image			- relevant images of Adding CSS to HTML
+		- elementG - summary			- summary of Creating your Adding CSS to HTML
+		- elementH - interview questions	- knowledge check about Adding CSS to HTML
+	- ElementA - concept4 	- Basic styling and properties
+		- elementB - Explanation of concept     - Basic styling and properties
+		- elementC - Example of concept		- Basic styling and properties
+		- elementD - Where it is used		- Applications of Basic styling and properties
+		- elementE - sample code		- code for Basic styling and properties
+		- elementF - image			- relevant images of Basic styling and properties
+		- elementG - summary			- summary of Basic styling and properties
+		- elementH - interview questions	- knowledge check about Basic styling and properties
+
+Lesson2	-   CSS Box Model
+	- ElementA - concept1 	-Understanding the box model (margin, border, padding)
+		- elementB - Explanation of concept     - Understanding the box model (margin, border, padding)
+		- elementC - Example of concept		- Understanding the box model (margin, border, padding)
+		- elementD - Where it is used		- Understanding the box model (margin, border, padding)
+		- elementE - sample code		- code for Understanding the box model (margin, border, padding)
+		- elementF - image			- relevant images of Understanding the box model (margin, border, padding)
+		- elementG - summary			- summary of Understanding the box model (margin, border, padding)
+		- elementH - interview questions	- knowledge check about Understanding the box model (margin, border, padding)
+	- ElementA - concept2 - Styling elements with margins and padding
+		- elementB - Explanation of concept     - Styling elements with margins and padding
+		- elementC - Example of concept		- Styling elements with margins and padding
+		- elementD - Where it is used		- Styling elements with margins and padding
+		- elementE - sample code		- codes for Styling elements with margins and padding
+		- elementF - image			- relevant images of Styling elements with margins and padding
+		- elementG - summary			- summary of Styling elements with margins and padding
+		- elementH - interview questions	- knowledge check about Styling elements with margins and padding
+	- ElementA - concept3 	- Box-sizing property
+		- elementB - Explanation of concept     - Box-sizing property
+		- elementC - Example of concept		- Box-sizing property
+		- elementD - Where it is used		- Applications of Box-sizing property
+		- elementE - sample code		- code for Box-sizing property
+		- elementF - image			- relevant images of Box-sizing property
+		- elementG - summary			- summary of Box-sizing property
+		- elementH - interview questions	- knowledge check about Box-sizing property
+	- ElementA - concept4 	- Dimensions and units
+		- elementB - Explanation of concept     - Dimensions and units
+		- elementC - Example of concept		- Dimensions and units
+		- elementD - Where it is used		- Applications of Dimensions and units
+		- elementE - sample code		- code for Dimensions and units
+		- elementF - image			- relevant images of Dimensions and units
+		- elementG - summary			- summary of Dimensions and units
+		- elementH - interview questions	- knowledge check about Dimensions and units
+
+Lesson3	-   CSS Colors and Backgrounds
+	- ElementA - concept1 	- Applying colors to elements (color, background-color)
+		- elementB - Explanation of concept     - Applying colors to elements (color, background-color)
+		- elementC - Example of concept		- Applying colors to elements (color, background-color)
+		- elementD - Where it is used		- Applications of Applying colors to elements (color, background-color)
+		- elementE - sample code		- codes for Applying colors to elements (color, background-color)
+		- elementF - image			- relevant images of Applying colors to elements (color, background-color)
+		- elementG - summary			- summary of Applying colors to elements (color, background-color)
+		- elementH - interview questions	- knowledge check about Applying colors to elements (color, background-color)
+	- ElementA - concept2 -  Working with background images
+		- elementB - Explanation of concept     - Working with background images
+		- elementC - Example of concept		- Working with background images
+		- elementD - Where it is used		- Applications of Working with background images
+		- elementE - sample code		- codes for Working with background images
+		- elementF - image			- relevant images of Working with background images 
+		- elementG - summary			- summary of Working with background images
+		- elementH - interview questions	- knowledge check about Working with background images
+	- ElementA - concept3 	- Gradient backgrounds
+		- elementB - Explanation of concept     - Gradient backgrounds
+		- elementC - Example of concept		- Gradient backgrounds
+		- elementD - Where it is used		- Applications of Gradient backgrounds
+		- elementE - sample code		- Code for Gradient backgrounds
+		- elementF - image			- relevant images of Gradient backgrounds
+		- elementG - summary			- summary of Gradient backgrounds
+		- elementH - interview questions	- knowledge check about Gradient backgrounds
+	- ElementA - concept4 	- Background properties
+		- elementB - Explanation of concept     - Background properties
+		- elementC - Example of concept		- Background properties
+		- elementD - Where it is used		- Applications of Background properties
+		- elementE - sample code		- code for Background properties
+		- elementF - image			- relevant images of Background properties
+		- elementG - summary			- summary of Background properties
+		- elementH - interview questions	- knowledge check about Background properties
+
+Lesson4	-  CSS Typography
+	- ElementA - concept1 	-Font properties and styling text
+		- elementB - Explanation of concept     - Font properties and styling text
+		- elementC - Example of concept		- Font properties and styling text
+		- elementD - Where it is used		- Applications of Font properties and styling text
+		- elementE - sample code		- codes for Font properties and styling text
+		- elementF - image			- relevant images of Font properties and styling text
+		- elementG - summary			- summary of Font properties and styling text
+		- elementH - interview questions	- knowledge check about the Font properties and styling text
+	- ElementA - concept2 -  Text alignment and decoration
+		- elementB - Explanation of concept     - Text alignment and decoration
+		- elementC - Example of concept		- Text alignment and decoration
+		- elementD - Where it is used		- Applications of Text alignment and decoration
+		- elementE - sample code		- codes for Text alignment and decoration
+		- elementF - image			- relevant images of Text alignment and decoration
+		- elementG - summary			- summary of Text alignment and decoration
+                - elementH - interview questions	- knowledge check about the Text alignment and decoration
+	- ElementA - concept3 - Line height and spacing
+		- elementB - Explanation of concept     - Line height and spacing
+		- elementC - Example of concept		- Line height and spacing
+		- elementD - Where it is used		- Applications of Line height and spacing
+		- elementE - sample code		- codes for Line height and spacing
+		- elementF - image			- relevant images of Line height and spacing
+		- elementG - summary			- summary of Line height and spacing
+                - elementH - interview questions	- knowledge check about the Line height and spacing
+        - ElementA - concept4 	- Web fonts and @font-face
+		- elementB - Explanation of concept     - Web fonts and @font-face
+		- elementC - Example of concept		- Web fonts and @font-face
+		- elementD - Where it is used		- Applications of Web fonts and @font-face
+		- elementE - sample code		- code for Web fonts and @font-face
+		- elementF - image			- relevant images of Web fonts and @font-face
+		- elementG - summary			- summary of Web fonts and @font-face
+		- elementH - interview questions	- knowledge check about Web fonts and @font-face
+Lesson5	-  CSS Layout
+	- ElementA - concept1 	- CSS display and positioning (block, inline, relative, absolute)
+		- elementB - Explanation of concept     - CSS display and positioning (block, inline, relative, absolute)
+		- elementC - Example of concept		- CSS display and positioning (block, inline, relative, absolute)
+		- elementD - Where it is used		- codes for CSS display and positioning (block, inline, relative, absolute)
+		- elementF - image			- relevant images of CSS display and positioning (block, inline, relative, absolute)
+		- elementG - summary			- summary of CSS display and positioning (block, inline, relative, absolute)
+		- elementH - interview questions	- knowledge check about CSS display and positioning (block, inline, relative, absolute)
+	- ElementA - concept2 - Working with floats and clearing
+		- elementB - Explanation of concept     - Working with floats and clearing
+		- elementC - Example of concept		- Working with floats and clearing
+		- elementD - Where it is used		- Applications of Working with floats and clearing
+		- elementE - sample code		- codes for Working with floats and clearing
+		- elementF - image			- relevant images of Working with floats and clearing
+		- elementG - summary			- summary of Working with floats and clearing
+		- elementH - interview questions	- knowledge check about the Working with floats and clearing
+	- ElementA - concept3 	- CSS layout models
+		- elementB - Explanation of concept     - CSS layout models
+		- elementC - Example of concept		- CSS layout models
+		- elementD - Where it is used		- Applications of CSS layout models
+		- elementE - sample code		- code for CSS layout models
+		- elementF - image			- relevant images of CSS layout models
+		- elementG - summary			- summary of CSS layout models
+		- elementH - interview questions	- knowledge check about CSS layout models
+	- ElementA - concept4 	- Practical layout examples
+		- elementB - Explanation of concept     - Practical layout examples
+		- elementC - Example of concept		- Practical layout examples
+		- elementD - Where it is used		- Applications of Practical layout examples
+		- elementE - sample code		- code for Practical layout examples
+		- elementF - image			- relevant images of Practical layout examples
+		- elementG - summary			- summary of Practical layout examples
+		- elementH - interview questions	- knowledge check about Practical layout examples
+
+
+Lesson6	-  Responsive Web Design
+	- ElementA -   Introduction to responsive design
+		- elementB - Explanation of concept     - Introduction to responsive design
+		- elementC - Example of concept		- Introduction to responsive design
+		- elementD - Where it is used		- Applications of Introduction to responsive design
+		- elementE - sample code		- codes for Introduction to responsive design
+		- elementF - image			- relevant images Introduction to responsive design
+		- elementG - summary			- summary of Introduction to responsive design
+		- elementH - interview questions	- knowledge check about Introduction to responsive design
+	- ElementA - concept2 -  Media queries and breakpoints
+		- elementB - Explanation of concept     - Media queries and breakpoints
+		- elementC - Example of concept		- Media queries and breakpoints
+		- elementD - Where it is used		- Applications of  Media queries and breakpoints
+		- elementE - sample code		- codes for  Media queries and breakpoints
+		- elementF - image			- relevant images of  Media queries and breakpoints
+		- elementG - summary			- summary of  Media queries and breakpoints
+		- elementH - interview questions	- knowledge check about  Media queries and breakpoints
+	- ElementA - concept3 	- Building responsive layouts
+		- elementB - Explanation of concept     - Building responsive layouts
+		- elementC - Example of concept		- Building responsive layouts
+		- elementD - Where it is used		- Applications of Building responsive layouts
+		- elementE - sample code		- code for Building responsive layouts
+		- elementF - image			- relevant images of Building responsive layouts
+		- elementG - summary			- summary of Building responsive layouts
+		- elementH - interview questions	- knowledge check about Building responsive layouts
+	- ElementA - concept4 	- Mobile-first approach
+		- elementB - Explanation of concept     - Mobile-first approach
+		- elementC - Example of concept		- Mobile-first approach
+		- elementD - Where it is used		- Applications of Mobile-first approach
+		- elementE - sample code		- code for Mobile-first approach
+		- elementF - image			- relevant images of Mobile-first approach
+		- elementG - summary			- summary of Mobile-first approach
+		- elementH - interview questions	- knowledge check about Mobile-first approach
+
+Lesson7	-   CSS Flexbox Layout
+	- ElementA - concept1 	- Understanding Flexbox principles
+		- elementB - Explanation of concept     - Understanding Flexbox principles
+		- elementC - Example of concept		- Understanding Flexbox principles
+		- elementD - Where it is used		- Applications of Understanding Flexbox principles
+		- elementE - sample code		- codes for Understanding Flexbox principles
+		- elementF - image			- relevant images of Understanding Flexbox principles
+		- elementG - summary			- summary of Understanding Flexbox principles
+		- elementH - interview questions	- knowledge check about Understanding Flexbox principles
+	- ElementA - concept2 - Creating flexible layouts
+		- elementB - Explanation of concept     - Creating flexible layouts
+		- elementC - Example of concept		- Creating flexible layouts
+		- elementD - Where it is used		- Applications of Creating flexible layouts
+		- elementE - sample code		- codes for Creating flexible layouts
+		- elementF - image			- relevant images of Creating flexible layouts
+		- elementG - summary			- summary of Creating flexible layouts
+		- elementH - interview questions	- knowledge check about Creating flexible layouts
+	- ElementA - concept3 	- Flexbox properties and alignment
+		- elementB - Explanation of concept     - Flexbox properties and alignment
+		- elementC - Example of concept		- Flexbox properties and alignment
+		- elementD - Where it is used		- Applications of Flexbox properties and alignment
+		- elementE - sample code		- code for Flexbox properties and alignment
+		- elementF - image			- relevant images of Flexbox properties and alignment
+		- elementG - summary			- summary of Flexbox properties and alignment
+		- elementH - interview questions	- knowledge check about Flexbox properties and alignment
+        - ElementA - concept4 	- Practical Flexbox examples
+		- elementB - Explanation of concept     - Practical Flexbox examples
+		- elementC - Example of concept		- Practical Flexbox examples
+		- elementD - Where it is used		- Applications of Practical Flexbox examples
+		- elementE - sample code		- code for Practical Flexbox examples
+		- elementF - image			- relevant images of Practical Flexbox examples
+		- elementG - summary			- summary of Practical Flexbox examples
+		- elementH - interview questions	- knowledge check about Practical Flexbox examples
+
+
+Lesson8	-  CSS Grid Layout
+	- ElementA - concept1 	-  CSS Grid fundamentals
+		- elementB - Explanation of concept     - CSS Grid fundamentals
+		- elementC - Example of concept		- CSS Grid fundamentals
+		- elementD - Where it is used		- Applications of CSS Grid fundamentals
+		- elementE - sample code		- codes for CSS Grid fundamentals
+		- elementF - image			- relevant images of CSS Grid fundamentals
+		- elementG - summary			- summary of CSS Grid fundamentals
+		- elementH - interview questions	- knowledge check about the CSS Grid fundamentals
+	- ElementA - concept2 -  Creating grid layouts
+		- elementB - Explanation of concept     - Creating grid layouts
+		- elementC - Example of concept		- Creating grid layouts
+		- elementD - Where it is used		- Applications of Creating grid layouts
+		- elementE - sample code		- codes for Creating grid layouts
+		- elementF - image			- relevant images of Creating grid layouts
+		- elementG - summary			- summary of Creating grid layouts
+		- elementH - interview questions	- knowledge check about the Creating grid layouts
+	- ElementA - concept3 	-  Grid properties and alignment
+		- elementB - Explanation of concept     - Grid properties and alignment
+		- elementC - Example of concept		- Grid properties and alignment
+		- elementD - Where it is used		- Applications of  Grid properties and alignment
+		- elementE - sample code		- code for  Grid properties and alignment
+		- elementF - image			- relevant images of  Grid properties and alignment
+		- elementG - summary			- summary of  Grid properties and alignment
+		- elementH - interview questions	- knowledge check about  Grid properties and alignment
+         - ElementA - concept4 	- Practical CSS Grid examples
+		- elementC - Example of concept		- Practical CSS Grid examples
+		- elementD - Where it is used		- Applications of Practical CSS Grid examples
+		- elementE - sample code		- code for Practical CSS Grid examples
+		- elementF - image			- relevant images of Practical CSS Grid examples
+		- elementG - summary			- summary of Practical CSS Grid examples
+		- elementH - interview questions	- knowledge check about Practical CSS Grid examples
+
+Lesson9	-  CSS Transitions and Animations
+	- ElementA - concept1 	- CSS transitions for smooth changes
+		- elementB - Explanation of concept     - CSS transitions for smooth changes
+		- elementC - Example of concept		- CSS transitions for smooth changes
+		- elementD - Where it is used		- Applications of CSS transitions for smooth changes
+		- elementE - sample code		- codes for CSS transitions for smooth changes
+		- elementF - image			- relevant images of CSS transitions for smooth changes
+		- elementG - summary			- summary of CSS transitions for smooth changes
+		- elementH - interview questions	- knowledge check about CSS transitions for smooth changes
+	- ElementA - concept2 - CSS animations for dynamic effects
+		- elementB - Explanation of concept     - CSS animations for dynamic effects
+		- elementC - Example of concept		- CSS animations for dynamic effects
+		- elementD - Where it is used		- Applications of CSS animations for dynamic effects
+		- elementE - sample code		- codes for CSS animations for dynamic effects
+		- elementF - image			- relevant images of CSS animations for dynamic effects
+		- elementG - summary			- summary of CSS animations for dynamic effects
+		- elementH - interview questions	- knowledge check about CSS animations for dynamic effects
+	- ElementA - concept3 - Keyframes and animation properties
+		- elementB - Explanation of concept     - Keyframes and animation properties
+		- elementC - Example of concept		- Keyframes and animation properties
+		- elementD - Where it is used		- Applications of Keyframes and animation properties
+		- elementE - sample code		- codes for Keyframes and animation properties
+		- elementF - image			- relevant images of Keyframes and animation properties
+		- elementG - summary			- summary of Keyframes and animation properties
+		- elementH - interview questions	- knowledge check about Keyframes and animation properties
+         - ElementA - concept4 - Animation examples
+		- elementB - Explanation of concept     - Animation examples
+		- elementC - Example of concept		- Animation examples
+		- elementD - Where it is used		- Applications of Animation examples
+		- elementE - sample code		- codes for Animation examples
+		- elementF - image			- relevant images of Animation examples
+		- elementG - summary			- summary of Animation examples
+		- elementH - interview questions	- knowledge check about Animation examples
+Lesson10-   Final Project and Wrap-Up
+	- ElementA - concept1 	- Building a complete webpage with CSS
+		- elementB - Explanation of concept     - Building a complete webpage with CSS
+		- elementC - Example of concept		- Building a complete webpage with CSS
+		- elementD - Where it is used		- Applications of Building a complete webpage with CSS
+		- elementE - sample code		- codes for Building a complete webpage with CSS
+		- elementF - image			- relevant images of Building a complete webpage with CSS
+		- elementG - summary			- summary of Building a complete webpage with CSS
+		- elementH - interview questions	- knowledge check about Building a complete webpage with CSS
+	- ElementA - concept2 - Refining styles and layout
+		- elementB - Explanation of concept     - Refining styles and layout
+		- elementC - Example of concept		- Refining styles and layout
+		- elementD - Where it is used		- Applications of Refining styles and layout
+		- elementE - sample code		- codes for Refining styles and layout
+		- elementF - image			- relevant images of Refining styles and layout
+		- elementG - summary			- summary of Refining styles and layout
+		- elementH - interview questions	- knowledge check about Refining styles and layout
+	- ElementA - concept3 	- Final project presentation
+		- elementB - Explanation of concept     - Final project presentation
+		- elementC - Example of concept		- Final project presentation
+		- elementD - Where it is used		- Applications of Final project presentation
+		- elementE - sample code		- code for Final project presentation
+		- elementF - image			- relevant images of Final project presentation
+		- elementG - summary			- summary of Final project presentation
+		- elementH - interview questions	- knowledge check about Final project presentation
+	- ElementA - concept4 	- Further CSS resources and tips
+		- elementB - Explanation of concept     - Further CSS resources and tips
+		- elementC - Example of concept		- Further CSS resources and tips
+		- elementD - Where it is used		- Applications of Further CSS resources and tips
+		- elementE - sample code		- code for Further CSS resources and tips
+		- elementF - image			- relevant images of Further CSS resources and tips
+		- elementG - summary			- summary of Further CSS resources and tips
+		- elementH - interview questions	- knowledge check about Further CSS resources and tips
+

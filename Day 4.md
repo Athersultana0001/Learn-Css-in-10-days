@@ -105,6 +105,7 @@ These font properties give you fine-grained control over how text is displayed o
  # Align text within elements to achieve desired layouts. 📐
  ![HTML Center Text – How to CSS Vertical Align a Div](https://www.freecodecamp.org/news/content/images/2020/08/align-div-vertically-in-css-1.png)
 
+
  Certainly! Let's explore how to align text within elements to achieve desired layouts. 📐
 
 ### Text Alignment 📝

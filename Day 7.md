@@ -56,7 +56,7 @@ CSS Flexbox, or Flexible Box Layout, is a layout model that allows you to design
 
 ## Flex Containers and Flex Items 📦
 
--   **Flex Container (Parent)**: To create a Flexbox layout, you start by defining a container element as a flex container. This container will hold one or more flex items.
+**Flex Container (Parent)**: To create a Flexbox layout, you start by defining a container element as a flex container. This container will hold one or more flex items.
 - 
 ``` css
 .flex-container {
@@ -628,6 +628,8 @@ Summary: 📚 On Day 7, we delved deep into the world of CSS Flexbox with a focu
       -   C. Simplifying web layout design
       -   D. Enhancing typography
       -   **Correct Answer: C** ✅
+
+
 As we conclude Day 7 of our journey into the world of web design, it's time to reflect on the incredible power of Flexbox. Today, we immersed ourselves in the principles, properties, and practical applications of this layout model, and the results have been truly remarkable.
 
 Flexbox empowers us to craft flexible, responsive, and visually appealing web layouts with ease. We've learned to create navigation menus that adapt gracefully to different screen sizes, design grid systems that wrap content intelligently, and align elements precisely along both the main and cross axes. Flexbox has proven to be an indispensable tool for solving real-world layout challenges.

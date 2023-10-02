@@ -437,8 +437,8 @@ In conclusion, your final project represents your dedication and creativity in w
 Thank you for your attention, and let's celebrate your achievement! 🎉🥂
 
 # Further CSS Resources and Tips 📚
+![image](https://github.com/Athersultana0001/Learn-Css-in-10-days/assets/129726145/85e43339-b76d-4af4-a5b8-13907f9645cc)
 
-![10+ Best HTML/CSS Books for Beginners and Advanced Coders](https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:1450/h:740/q:mauto/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Best-html-css-books.jpeg)
 
 Congratulations on diving into the world of CSS! 🎉 As you continue your journey, it's essential to have access to valuable resources and tips to enhance your skills and create stunning web designs. Let's explore some resources and tips to help you become a CSS pro! 💪🚀
 

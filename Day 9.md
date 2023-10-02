@@ -419,231 +419,99 @@ Incorporating CSS transitions and animations in these applications can not only 
 In today's lesson, we delved into the fascinating world of CSS Transitions and Animations. We learned how to use transitions (🔄) to create smooth element changes and animations (🎬) to add dynamic effects to web elements. We explored keyframes and animation properties (⏳) to control animation behavior and wrapped up with practical examples (🌟) to apply our newfound knowledge. CSS animations bring web pages to life, making them more interactive and engaging. 🚀
 
 # Quiz : "CSS Transitions and Animations Mastery" 🚀
+**Quiz Title: "HTML and CSS Mastery Challenge"**
 
-What is the purpose of CSS transitions? 🔄
+1. What does HTML stand for? 🌐
 
-a) To create responsive layouts
-b) To smoothly change CSS properties over time
-c) To define fonts and text styles
-d) To apply colors to web elements
+   a) Hyper Text Markup Language
+   b) High Technology Modern Language
+   c) Hyperlink and Text Markup Language
+   d) Home Tool Markup Language
 
-Correct Answer: b)
+   **Correct Answer: a) 🌐**
 
-Which CSS property controls the duration of a transition? 🔄
+2. Which HTML tag is used to create a hyperlink? 🌐
 
-a) transition-property
-b) transition-duration
-c) transition-timing-function
-d) transition-delay
+   a) `<link>`
+   b) `<a>`
+   c) `<hlink>`
+   d) `<url>`
 
-Correct Answer: b)
+   **Correct Answer: b) 🌐**
 
-What does the animation-name property in CSS refer to? 🎬
+3. In HTML, which tag is used for creating an ordered list? 🌐
 
-a) The animation's speed
-b) The name of a keyframes animation
-c) The element to be animated
-d) The animation's color
+   a) `<ul>`
+   b) `<li>`
+   c) `<ol>`
+   d) `<dl>`
 
-Correct Answer: b)
+   **Correct Answer: c) 🌐**
 
-How can you make a CSS animation play indefinitely? 🎬
+4. What does CSS stand for? 🎨
 
-a) Set animation-iteration-count to infinite
-b) Set animation-duration to infinite
-c) Set animation-play-state to running
-d) Set animation-delay to infinite
+   a) Creative Style Sheets
+   b) Cascading Style Sheets
+   c) Computer Style Sheets
+   d) Colorful Style Sheets
 
-Correct Answer: a)
+   **Correct Answer: b) 🎨**
 
-What is the purpose of @keyframes in CSS animations? ⏳
+5. Which CSS property is used to change the text color of an element? 🎨
 
-a) To define animation duration
-b) To create keyframe animations
-c) To set animation colors
-d) To specify animation directions
+   a) `text-color`
+   b) `color`
+   c) `text-style`
+   d) `font-color`
 
-Correct Answer: b)
+   **Correct Answer: b) 🎨**
 
-Which CSS property controls the direction of an animation? ⏳
+6. What is the purpose of the `<div>` tag in HTML? 🌐
 
-a) animation-duration
-b) animation-direction
-c) animation-timing-function
-d) animation-delay
+   a) To create a hyperlink
+   b) To define a division or a section
+   c) To insert an image
+   d) To add a line break
 
-Correct Answer: b)
+   **Correct Answer: b) 🌐**
 
-What CSS animation property controls the playback state of an animation? ⏳
+7. Which HTML tag is used for creating an unordered list? 🌐
 
-a) animation-iteration-count
-b) animation-direction
-c) animation-play-state
-d) animation-fill-mode
+   a) `<ol>`
+   b) `<li>`
+   c) `<ul>`
+   d) `<dl>`
 
-Correct Answer: c)
+   **Correct Answer: c) 🌐**
 
-Which of the following is NOT a common application of CSS animations and transitions? 🌟
+8. In CSS, how can you select an element with the `id` of "header"? 🎨
 
-a) Interactive buttons
-b) Data visualization
-c) Changing fonts
-d) Image sliders
+   a) `#header`
+   b) `.header`
+   c) `header`
+   d) `id("header")`
 
-Correct Answer: c)
+   **Correct Answer: a) 🎨**
 
-How can you create a loading spinner with CSS animations? 🌟
+9. What does the CSS property `font-weight` control? 🎨
 
-a) By applying a keyframes animation
-b) By setting a large font size
-c) By using JavaScript only
-d) By adding multiple images
+   a) The font size
+   b) The font color
+   c) The font style
+   d) The thickness of the font
 
-Correct Answer: a)
+   **Correct Answer: d) 🎨**
 
-What kind of effects can CSS animations and transitions add to your website? 🌟
+10. Which HTML tag is used to create a line break? 🌐
 
-a) Static and boring effects
-b) Dynamic and engaging effects
-c) Text-only effects
-d) Audio effects
+   a) `<br>`
+   b) `<lb>`
+   c) `<newline>`
+   d) `<break>`
 
-Correct Answer: b)
+   **Correct Answer: a) 🌐**
 
-In a web-based game, what can CSS animations be used for? 🧩
 
-a) Controlling user accounts
-b) Moving puzzle pieces
-c) Managing server requests
-d) Sending emails
-
-Correct Answer: b)
-
-How can you make a CSS animation play only once on hover? 🌟
-
-a) Set animation-duration to 1
-b) Set animation-iteration-count to 1
-c) Set animation-play-state to once
-d) Set animation-timing-function to once
-
-Correct Answer: b)
-
-What is the primary purpose of CSS transitions? 🔄
-
-a) To define fonts and text styles
-b) To create smooth element changes
-c) To apply colors to web elements
-d) To design layouts
-
-Correct Answer: b)
-
-Which CSS property controls the timing of a transition effect? 🔄
-
-a) transition-property
-b) transition-duration
-c) transition-timing-function
-d) transition-delay
-
-Correct Answer: c)
-
-How do you specify a delay before a transition starts? 🔄
-
-a) Using the transition-timing-function property
-b) Using the transition-property property
-c) Using the transition-duration property
-d) Using the transition-delay property
-
-Correct Answer: d)
-
-In CSS animations, what does the animation-iteration-count property control? 🎬
-
-a) The number of keyframes
-b) The speed of animation
-c) The number of times an animation repeats
-d) The animation's timing
-
-Correct Answer: c)
-
-Which CSS property sets the direction of an animation to reverse? 🎬
-
-a) animation-iteration-count
-b) animation-direction
-c) animation-timing-function
-d) animation-delay
-
-Correct Answer: b)
-
-What is the primary purpose of the @keyframes rule in CSS animations? ⏳
-
-a) To define CSS properties
-b) To set animation duration
-c) To specify keyframe locations and styles
-d) To control transition effects
-
-Correct Answer: c)
-
-How can you make an animation repeat infinitely in CSS? ⏳
-
-a) Set animation-duration to infinite
-b) Set animation-iteration-count to infinite
-c) Set animation-play-state to running
-d) Set animation-delay to infinite
-
-Correct Answer: b)
-
-What CSS animation property controls the playback state of an animation? ⏳
-
-a) animation-iteration-count
-b) animation-direction
-c) animation-play-state
-d) animation-fill-mode
-
-Correct Answer: c)
-
-Which of the following is NOT a common application of CSS animations and transitions? 🌟
-
-a) Creating interactive buttons
-b) Enhancing data visualization
-c) Managing server requests
-d) Building image sliders
-
-Correct Answer: c)
-
-In web-based games, CSS animations can be used for what purpose? 🧩
-
-a) Managing user accounts
-b) Adding audio effects
-c) Creating dynamic animations
-d) Moving puzzle pieces
-
-Correct Answer: d)
-
-How can you make a CSS animation play only once on hover? 🌟
-
-a) Set animation-duration to 1
-b) Set animation-iteration-count to 1
-c) Set animation-play-state to once
-d) Set animation-timing-function to once
-
-Correct Answer: b)
-
-What is the primary purpose of CSS transitions? 🔄
-
-a) To define fonts and text styles
-b) To create smooth element changes
-c) To apply colors to web elements
-d) To design layouts
-
-Correct Answer: b)
-
-Which CSS property controls the timing of a transition effect? 🔄
-
-a) transition-property
-b) transition-duration
-c) transition-timing-function
-d) transition-delay
-
-Correct Answer: c)
 As we conclude Day 9 of our journey into CSS Transitions and Animations, I hope you've found this exploration both enlightening and inspiring. We've unlocked the power of CSS transitions to create smooth element changes and embraced the dynamic world of CSS animations for adding life and interactivity to web elements. We've dived into keyframes and animation properties, understanding how to control animation behavior.
 
 Remember, CSS animations and transitions offer boundless opportunities to make your websites engaging and user-friendly. From subtle hover effects to complex storytelling animations, your creativity knows no bounds. Continue practicing and experimenting to master these skills, and you'll be well on your way to creating captivating web experiences.

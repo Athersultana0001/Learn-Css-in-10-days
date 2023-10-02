@@ -425,7 +425,6 @@ a) To create responsive layouts
 b) To smoothly change CSS properties over time
 c) To define fonts and text styles
 d) To apply colors to web elements
-
 Correct Answer: b) 🔄
 
 2.Which CSS property controls the duration of a transition? 🔄
@@ -433,7 +432,6 @@ a) transition-property
 b) transition-duration
 c) transition-timing-function
 d) transition-delay
-
 Correct Answer: b) 🔄
 
 3.What does the animation-name property in CSS refer to? 🎬
@@ -441,7 +439,6 @@ a) The animation's speed
 b) The name of a keyframes animation
 c) The element to be animated
 d) The animation's color
-
 Correct Answer: b) 🎬
 
 4.How can you make a CSS animation play indefinitely? 🎬
@@ -449,7 +446,6 @@ a) Set animation-iteration-count to infinite
 b) Set animation-duration to infinite
 c) Set animation-play-state to running
 d) Set animation-delay to infinite
-
 Correct Answer: a) 🎬
 
 5.What is the purpose of @keyframes in CSS animations? ⏳
@@ -457,7 +453,6 @@ a) To define animation duration
 b) To create keyframe animations
 c) To set animation colors
 d) To specify animation directions
-
 Correct Answer: b) ⏳
 
 6.Which CSS property controls the direction of an animation? ⏳
@@ -465,7 +460,6 @@ a) animation-duration
 b) animation-direction
 c) animation-timing-function
 d) animation-delay
-
 Correct Answer: b) ⏳
 
 7.What CSS animation property controls the playback state of an animation? ⏳
@@ -473,7 +467,6 @@ a) animation-iteration-count
 b) animation-direction
 c) animation-play-state
 d) animation-fill-mode
-
 Correct Answer: c) ⏳
 
 8.Which of the following is NOT a common application of CSS animations and transitions? 🌟
@@ -481,7 +474,6 @@ a) Interactive buttons
 b) Data visualization
 c) Changing fonts
 d) Image sliders
-
 Correct Answer: c) 🌟
 
 9.How can you create a loading spinner with CSS animations? 🌟
@@ -489,7 +481,6 @@ a) By applying a keyframes animation
 b) By setting a large font size
 c) By using JavaScript only
 d) By adding multiple images
-
 Correct Answer: a) 🌟
 
 10.What kind of effects can CSS animations and transitions add to your website? 🌟
@@ -497,7 +488,6 @@ a) Static and boring effects
 b) Dynamic and engaging effects
 c) Text-only effects
 d) Audio effects
-
 Correct Answer: b) 🌟
 
 11.In a web-based game, what can CSS animations be used for? 🧩
@@ -505,7 +495,6 @@ a) Controlling user accounts
 b) Adding audio effects
 c) Creating dynamic animations
 d) Moving puzzle pieces
-
 Correct Answer: c) 🧩
 
 12.How can you make a CSS animation play only once on hover? 🌟
@@ -513,7 +502,6 @@ a) Set animation-duration to 1
 b) Set animation-iteration-count to 1
 c) Set animation-play-state to once
 d) Set animation-timing-function to once
-
 Correct Answer: b) 🌟
 
 13.What is the primary purpose of CSS transitions? 🔄
@@ -521,7 +509,6 @@ a) To define fonts and text styles
 b) To create smooth element changes
 c) To apply colors to web elements
 d) To design layouts
-
 Correct Answer: b) 🔄
 
 14.Which CSS property controls the timing of a transition effect? 🔄
@@ -529,7 +516,6 @@ a) transition-property
 b) transition-duration
 c) transition-timing-function
 d) transition-delay
-
 Correct Answer: c) 🔄
 
 15.How do you specify a delay before a transition starts? 🔄
@@ -537,7 +523,6 @@ a) Using the transition-timing-function property
 b) Using the transition-property property
 c) Using the transition-duration property
 d) Using the transition-delay property
-
 Correct Answer: d) 🔄
 
 16.In CSS animations, what does the animation-iteration-count property control? 🎬
@@ -545,7 +530,6 @@ a) The number of keyframes
 b) The speed of animation
 c) The number of times an animation repeats
 d) The animation's timing
-
 Correct Answer: c) 🎬
 
 17.Which CSS property sets the direction of an animation to reverse? 🎬
@@ -553,7 +537,6 @@ a) animation-iteration-count
 b) animation-direction
 c) animation-timing-function
 d) animation-delay
-
 Correct Answer: b) 🎬
 
 18.What CSS animation property controls the playback state of an animation? 🎬
@@ -561,7 +544,6 @@ a) animation-iteration-count
 b) animation-direction
 c) animation-play-state
 d) animation-fill-mode
-
 Correct Answer: c) 🎬
 
 19.Which of the following is NOT a common application of CSS animations and transitions? 🌟
@@ -569,7 +551,6 @@ a) Creating interactive buttons
 b) Enhancing data visualization
 c) Managing server requests
 d) Building image sliders
-
 Correct Answer: c) 🌟
 
 20.In web-based games, CSS animations can be used for what purpose? 🧩
@@ -577,7 +558,6 @@ a) Managing user accounts
 b) Adding audio effects
 c) Creating dynamic animations
 d) Moving puzzle pieces
-
 Correct Answer: c) 🧩
 
 21.How can you make a CSS animation play only once on hover? 🌟
@@ -585,7 +565,6 @@ a) Set animation-duration to 1
 b) Set animation-iteration-count to 1
 c) Set animation-play-state to once
 d) Set animation-timing-function to once
-
 Correct Answer: b) 🌟
 
 22.What is the primary purpose of CSS transitions? 🔄
@@ -593,7 +572,6 @@ a) To define fonts and text styles
 b) To create smooth element changes
 c) To apply colors to web elements
 d) To design layouts
-
 Correct Answer: b) 🔄
 
 23.Which CSS property controls the timing of a transition effect? 🔄
@@ -601,7 +579,6 @@ a) transition-property
 b) transition-duration
 c) transition-timing-function
 d) transition-delay
-
 Correct Answer: c) 🔄
 
 24.How do you specify a delay before a transition starts? 🔄
@@ -609,7 +586,6 @@ a) Using the transition-timing-function property
 b) Using the transition-property property
 c) Using the transition-duration property
 d) Using the transition-delay property
-
 Correct Answer: d) 🔄
 
 25.In CSS animations, what does the animation-iteration-count property control? 🎬
@@ -617,7 +593,6 @@ a) The number of keyframes
 b) The speed of animation
 c) The number of times an animation repeats
 d) The animation's timing
-
 Correct Answer: c) 🎬
 
 

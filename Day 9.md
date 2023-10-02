@@ -418,98 +418,183 @@ Incorporating CSS transitions and animations in these applications can not only 
 
 In today's lesson, we delved into the fascinating world of CSS Transitions and Animations. We learned how to use transitions (🔄) to create smooth element changes and animations (🎬) to add dynamic effects to web elements. We explored keyframes and animation properties (⏳) to control animation behavior and wrapped up with practical examples (🌟) to apply our newfound knowledge. CSS animations bring web pages to life, making them more interactive and engaging. 🚀
 
-# Quiz : "CSS Transitions and Animations Mastery" 🚀
-**Quiz Title: "HTML and CSS Mastery Challenge"**
+# Quiz Title: "CSS Transitions and Animations Mastery" 🌟
 
-1. What does HTML stand for? 🌐
-
-    a) Hyper Text Markup Language
-    b) High Technology Modern Language
-    c) Hyperlink and Text Markup Language
-    d) Home Tool Markup Language
-
-    **Correct Answer: a) 🌐**
-
-2. Which HTML tag is used to create a hyperlink? 🌐
-
-    a) `<link>`
-    b) `<a>`
-    c) `<hlink>`
-    d) `<url>`
-
-    **Correct Answer: b) 🌐**
-
-3. In HTML, which tag is used for creating an ordered list? 🌐
-
-    a) `<ul>`
-    b) `<li>`
-    c) `<ol>`
-    d) `<dl>`
-
-    **Correct Answer: c) 🌐**
-
-4. What does CSS stand for? 🎨
-
-     a) Creative Style Sheets
-     b) Cascading Style Sheets
-     c) Computer Style Sheets
-     d) Colorful Style Sheets
-
-    **Correct Answer: b) 🎨**
-
-5. Which CSS property is used to change the text color of an element? 🎨
-
-    a) `text-color`
-    b) `color`
-    c) `text-style`
-    d) `font-color`
-
-    **Correct Answer: b) 🎨**
-
-6. What is the purpose of the `<div>` tag in HTML? 🌐
-
-    a) To create a hyperlink
-    b) To define a division or a section
-    c) To insert an image
-    d) To add a line break
- 
-    **Correct Answer: b) 🌐**
-
-7. Which HTML tag is used for creating an unordered list? 🌐
-
-    a) `<ol>`
-    b) `<li>`
-    c) `<ul>`
-    d) `<dl>`
-
-    **Correct Answer: c) 🌐**
-
-8. In CSS, how can you select an element with the `id` of "header"? 🎨
-
-    a) `#header`
-    b) `.header`
-    c) `header`
-    d) `id("header")`
-
-    **Correct Answer: a) 🎨**
-
-9. What does the CSS property `font-weight` control? 🎨
-
-    a) The font size
-    b) The font color
-    c) The font style
-    d) The thickness of the font
-
-    **Correct Answer: d) 🎨**
-
-10. Which HTML tag is used to create a line break? 🌐
-
-    a) `<br>`
-    b) `<lb>`
-    c) `<newline>`
-    d) `<break>`
-
-    **Correct Answer: a) 🌐**
+1.  What does CSS stand for in the context of web development? 🌐
+    
+    -   A. Cascading Style Sheets
+    -   B. Creative Styling System
+    -   C. Content Styling Solution
+    -   D. Cool Stylish Sheets
+    -   Correct Answer: A
+2.  CSS transitions are primarily used for achieving what in web design? 🔄
+    
+    -   A. Creating complex layouts
+    -   B. Adding dynamic effects
+    -   C. Implementing responsive design
+    -   D. Achieving smooth changes in properties
+    -   Correct Answer: D
+3.  Which CSS feature is used to create dynamic effects and animations on web pages? 🎬
+    
+    -   A. CSS Flexbox
+    -   B. CSS Grid
+    -   C. CSS Animations
+    -   D. CSS Transitions
+    -   Correct Answer: C
+4.  In CSS animations, what is the purpose of keyframes? ⏳
+    
+    -   A. To define the starting and ending points of an animation
+    -   B. To create responsive layouts
+    -   C. To define the font size of text
+    -   D. To specify the color of links
+    -   Correct Answer: A
+5.  Which CSS property is used to specify the duration of an animation? 🌟
+    
+    -   A. animation-time
+    -   B. animation-duration
+    -   C. animation-speed
+    -   D. animation-length
+    -   Correct Answer: B
+6.  CSS transitions are particularly useful for achieving _______ effects when properties change. 🌐
+    
+    -   A. Instant
+    -   B. Slow
+    -   C. Smooth
+    -   D. Jarring
+    -   Correct Answer: C
+7.  Which CSS property is used to specify the timing function for an animation or transition? 🎬
+    
+    -   A. animation-timing-function
+    -   B. transition-timing-function
+    -   C. animation-speed-function
+    -   D. transition-mode
+    -   Correct Answer: B
+8.  What is the primary purpose of CSS keyframes? ⏳
+    
+    -   A. To define key elements on a webpage
+    -   B. To specify font styles
+    -   C. To define animation sequences at different points in time
+    -   D. To create responsive layouts
+    -   Correct Answer: C
+9.  Which of the following CSS properties is used to specify the rotation of an element during an animation? 🌟
+    
+    -   A. transform-rotate
+    -   B. animation-rotate
+    -   C. rotate-property
+    -   D. transform
+    -   Correct Answer: D
+10.  In CSS animations, what does the "iteration-count" property determine? 🌐
+    
+     -   A. The number of keyframes
+     -   B. The duration of the animation
+     -   C. The number of times the animation repeats
+     -   D. The timing function used
+     -   Correct Answer: C
+11.  CSS animations can be used to create which of the following effects on a webpage? 🎬
+    
+     -   A. Sliding elements from left to right
+     -   B. Changing font colors on hover
+     -   C. Rotating an image
+     -   D. All of the above
+     -   Correct Answer: D
+12.  Which CSS property is used to specify the delay before an animation starts? ⏳
+    
+     -   A. animation-delay
+     -   B. transition-delay
+     -   C. animation-start
+     -   D. animation-pause
+     -   Correct Answer: A
+13.  In CSS transitions, what does the "ease-in" timing function achieve? 🌟
+    
+     -   A. Slow start and slow end
+     -   B. Slow start and fast end
+     -   C. Fast start and slow end
+     -   D. Fast start and fast end
+     -   Correct Answer: A
+14.  What does the "animation-fill-mode" property specify in CSS animations? 🌐
+    
+     -   A. The type of animation (e.g., slide, fade, etc.)
+     -   B. The starting point of an animation
+     -   C. How an element should be styled before and after an animation
+     -   D. The animation speed
+     -   Correct Answer: C
+15.  Which CSS property is used to change the size of an element during an animation? 🎬
+    
+     -   A. transform-scale
+     -   B. animation-size
+     -   C. size-property
+     -   D. transform
+     -   Correct Answer: A
+16.  What is the primary purpose of CSS transitions? ⌛
+    
+     -   A. To create complex layouts
+     -   B. To achieve smooth changes in properties
+     -   C. To define keyframes
+     -   D. To specify font styles
+     -   Correct Answer: B
+17.  Which CSS property is used to specify the timing function for an animation? ⏳
+    
+     -   A. animation-timing-function
+     -   B. transition-timing-function
+     -   C. animation-speed-function
+     -   D. timing-mode
+     -   Correct Answer: A
+18.  How can you make an element gradually fade out using CSS transitions? 🌟
+    
+     -   A. By setting the "transition-property" to "opacity" and "transition-duration" to a value greater than 0
+     -   B. By using the "display: none" property
+     -   C. By setting "visibility: hidden"
+     -   D. By applying a "fade-out" class
+     -   Correct Answer: A
+19.  Which CSS property is used to control the timing of keyframes in an animation sequence? 🎬
+    
+     -   A. keyframe-timing
+     -   B. animation-timing
+     -   C. keyframe-duration
+     -   D. animation-duration
+     -   Correct Answer: B
+20.  What does the "animation-direction" property in CSS determine? ⏳
+    
+     -   A. The direction of a transition
+     -   B. The direction of an animation's playback
+     -   C. The speed of an animation
+     -   D. The type of animation
+     -   Correct Answer: B
+21.  Which CSS property is used to specify the number of times an animation should repeat? 🌟
+    
+     -   A. animation-iteration-count
+     -   B. animation-repeat
+     -   C. animation-loop
+     -   D. animation-repeat-count
+     -   Correct Answer: A
+22.  How can you create a smooth color transition on a button when it's hovered over using CSS? 🌐
+    
+     -   A. Use JavaScript
+     -   B. Apply the "transition" property to the button's color and set the duration
+     -   C. Use the "animate" property
+     -   D. Use a GIF
+     -   Correct Answer: B
+23.  Which CSS property is used to specify the order of keyframes in an animation? 🎬
+    
+     -   A. animation-order
+     -   B. keyframe-order
+     -   C. animation-sequence
+     -   D. animation-timeline
+     -   Correct Answer: D
+24.  What is the purpose of the "animation-play-state" property in CSS? ⏳
+    
+     -   A. To control the animation's playback or pause
+     -   B. To specify the duration of an animation
+     -   C. To determine the animation's timing function
+     -   D. To set the animation's initial state
+     -   Correct Answer: A
+25.  How can you create a continuous rotation animation on an image using CSS animations? 🌟
+    
+     -   A. Apply the "rotate" property to the image
+     -   B. Use the "spin" class
+     -   C. Define keyframes that continuously rotate the image and apply the animation
+     -   D. Use a loop in JavaScript
+     -   Correct Answer: C
 
 
 As we conclude Day 9 of our journey into CSS Transitions and Animations, I hope you've found this exploration both enlightening and inspiring. We've unlocked the power of CSS transitions to create smooth element changes and embraced the dynamic world of CSS animations for adding life and interactivity to web elements. We've dived into keyframes and animation properties, understanding how to control animation behavior.

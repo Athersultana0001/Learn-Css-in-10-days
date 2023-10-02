@@ -423,93 +423,93 @@ In today's lesson, we delved into the fascinating world of CSS Transitions and A
 
 1. What does HTML stand for? 🌐
 
-   a) Hyper Text Markup Language
-   b) High Technology Modern Language
-   c) Hyperlink and Text Markup Language
-   d) Home Tool Markup Language
+    a) Hyper Text Markup Language
+    b) High Technology Modern Language
+    c) Hyperlink and Text Markup Language
+    d) Home Tool Markup Language
 
-   **Correct Answer: a) 🌐**
+    **Correct Answer: a) 🌐**
 
 2. Which HTML tag is used to create a hyperlink? 🌐
 
-   a) `<link>`
-   b) `<a>`
-   c) `<hlink>`
-   d) `<url>`
+    a) `<link>`
+    b) `<a>`
+    c) `<hlink>`
+    d) `<url>`
 
-   **Correct Answer: b) 🌐**
+    **Correct Answer: b) 🌐**
 
 3. In HTML, which tag is used for creating an ordered list? 🌐
 
-   a) `<ul>`
-   b) `<li>`
-   c) `<ol>`
-   d) `<dl>`
+    a) `<ul>`
+    b) `<li>`
+    c) `<ol>`
+    d) `<dl>`
 
-   **Correct Answer: c) 🌐**
+    **Correct Answer: c) 🌐**
 
 4. What does CSS stand for? 🎨
 
-   a) Creative Style Sheets
-   b) Cascading Style Sheets
-   c) Computer Style Sheets
-   d) Colorful Style Sheets
+     a) Creative Style Sheets
+     b) Cascading Style Sheets
+     c) Computer Style Sheets
+     d) Colorful Style Sheets
 
-   **Correct Answer: b) 🎨**
+    **Correct Answer: b) 🎨**
 
 5. Which CSS property is used to change the text color of an element? 🎨
 
-   a) `text-color`
-   b) `color`
-   c) `text-style`
-   d) `font-color`
+    a) `text-color`
+    b) `color`
+    c) `text-style`
+    d) `font-color`
 
-   **Correct Answer: b) 🎨**
+    **Correct Answer: b) 🎨**
 
 6. What is the purpose of the `<div>` tag in HTML? 🌐
 
-   a) To create a hyperlink
-   b) To define a division or a section
-   c) To insert an image
-   d) To add a line break
-
-   **Correct Answer: b) 🌐**
+    a) To create a hyperlink
+    b) To define a division or a section
+    c) To insert an image
+    d) To add a line break
+ 
+    **Correct Answer: b) 🌐**
 
 7. Which HTML tag is used for creating an unordered list? 🌐
 
-   a) `<ol>`
-   b) `<li>`
-   c) `<ul>`
-   d) `<dl>`
+    a) `<ol>`
+    b) `<li>`
+    c) `<ul>`
+    d) `<dl>`
 
-   **Correct Answer: c) 🌐**
+    **Correct Answer: c) 🌐**
 
 8. In CSS, how can you select an element with the `id` of "header"? 🎨
 
-   a) `#header`
-   b) `.header`
-   c) `header`
-   d) `id("header")`
+    a) `#header`
+    b) `.header`
+    c) `header`
+    d) `id("header")`
 
-   **Correct Answer: a) 🎨**
+    **Correct Answer: a) 🎨**
 
 9. What does the CSS property `font-weight` control? 🎨
 
-   a) The font size
-   b) The font color
-   c) The font style
-   d) The thickness of the font
+    a) The font size
+    b) The font color
+    c) The font style
+    d) The thickness of the font
 
-   **Correct Answer: d) 🎨**
+    **Correct Answer: d) 🎨**
 
 10. Which HTML tag is used to create a line break? 🌐
 
-   a) `<br>`
-   b) `<lb>`
-   c) `<newline>`
-   d) `<break>`
+    a) `<br>`
+    b) `<lb>`
+    c) `<newline>`
+    d) `<break>`
 
-   **Correct Answer: a) 🌐**
+    **Correct Answer: a) 🌐**
 
 
 As we conclude Day 9 of our journey into CSS Transitions and Animations, I hope you've found this exploration both enlightening and inspiring. We've unlocked the power of CSS transitions to create smooth element changes and embraced the dynamic world of CSS animations for adding life and interactivity to web elements. We've dived into keyframes and animation properties, understanding how to control animation behavior.
